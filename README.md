@@ -1,12 +1,28 @@
-# React + Vite
+# Maira Mushtaq | Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website built with **React**, **Tailwind CSS**, **Framer Motion**, and **EmailJS**. This portfolio highlights my skills as a **Full Stack Developer**, showcasing my projects, services, and contact information with modern animations and a visually attractive design.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Responsive and modern UI with Tailwind CSS
+- Smooth animations with Framer Motion
+- Code-themed hero section with animated code snippet
+- Dynamic type animation for developer roles
+- Filterable skills with category buttons
+- Project showcase with links to live sites & source code
+- Professional About section with timeline of education
+- Contact section with integrated email form via EmailJS
+- Social links for GitHub, LinkedIn, WhatsApp, and Email
+- Fully responsive design
+- Smooth scrolling navigation with active section highlighting
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React** (functional components & hooks)
+- **Tailwind CSS** (for modern, utility-first styling)
+- **Framer Motion** (page and element animations)
+- **EmailJS** (form submission & contact functionality)
+- **Lucide React** (icons)
+- **TypeAnimation** (for typing animation effects)
+
+
